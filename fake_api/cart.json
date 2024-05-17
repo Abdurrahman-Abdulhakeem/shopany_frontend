@@ -1,0 +1,109 @@
+{
+  "carts": [
+    {
+      "cartId": 1,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl1",
+      "quantity": 1,
+      "price": 300,
+      "amount": 300,
+      "id": "b5a9"
+    },
+    {
+      "cartId": 2,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl2",
+      "quantity": 1,
+      "price": 300,
+      "amount": 300,
+      "id": "2a4b"
+    },
+    {
+      "cartId": 3,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl3",
+      "quantity": 1,
+      "price": 300,
+      "amount": 300,
+      "id": "46cf"
+    },
+    {
+      "cartId": 4,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl4",
+      "quantity": 1,
+      "price": 300,
+      "amount": 300,
+      "id": "370c"
+    },
+    {
+      "id": "2324",
+      "cartId": 5,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl5",
+      "quantity": 1,
+      "price": 300,
+      "amount": 300
+    },
+    {
+      "id": "8ce5",
+      "cartId": 5,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl5",
+      "quantity": 1,
+      "price": 300,
+      "amount": 300
+    },
+    {
+      "id": "4978",
+      "cartId": 8,
+      "cartImage": "images/hero-bg.PNG",
+      "cartName": "Nikey Girl8",
+      "quantity": 3,
+      "price": 600,
+      "amount": 1800
+    }
+  ],
+  "products": [
+    {
+      "productId": 5,
+      "productImage": "images/hero-bg.PNG",
+      "productName": "Nikey Girl5",
+      "quantity": 1,
+      "price": 300,
+      "rating": 4.6,
+      "loading": false,
+      "id": "a3e6"
+    },
+    {
+      "productId": 6,
+      "productImage": "images/hero-bg.PNG",
+      "productName": "Nikey Girl6",
+      "quantity": 1,
+      "price": 400,
+      "rating": 4.6,
+      "loading": false,
+      "id": "20e7"
+    },
+    {
+      "productId": 7,
+      "productImage": "images/hero-bg.PNG",
+      "productName": "Nikey Girl7",
+      "quantity": 1,
+      "price": 500,
+      "rating": 4.6,
+      "loading": false,
+      "id": "6632"
+    },
+    {
+      "productId": 8,
+      "productImage": "images/hero-bg.PNG",
+      "productName": "Nikey Girl8",
+      "quantity": 1,
+      "price": 600,
+      "rating": 4.6,
+      "loading": false,
+      "id": "a61b"
+    }
+  ]
+}
